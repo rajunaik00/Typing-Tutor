@@ -2,6 +2,7 @@
 
 🚀 **Typing-Tutor Web Game** is a **fast-paced typing game** that helps improve keyboard skills and reaction speed. Players must correctly **press the keys matching falling letters** before they reach the bottom of the screen. The game features **progressive difficulty levels**, **score tracking**, and **record-saving** for continuous improvement! 🎮  
 
+[![Test Online](https://img.shields.io/badge/Test%20Online-Click%20Here-brightgreen?style=for-the-badge)](https://bocaletto-luca.github.io/Typing-Tutor/)
 ---
 
 ## 🏆 Features  
